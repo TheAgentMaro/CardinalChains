@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1654040436 source:c:\users\marwe\onedrive\bureau\projet 1cdev\projet c\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"chains.h"
+	"level.h"
+	"display.h"
+
+1654040575 c:\users\marwe\onedrive\bureau\projet 1cdev\projet c\chains.h
+
+1654040617 c:\users\marwe\onedrive\bureau\projet 1cdev\projet c\level.h
+
+1654040598 c:\users\marwe\onedrive\bureau\projet 1cdev\projet c\display.h
+
+1654040455 source:c:\users\marwe\onedrive\bureau\projet 1cdev\projet c\level.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"chains.h"
+	"level.h"
+	"display.h"
+
+1654073638 source:c:\users\marwe\onedrive\bureau\projet 1cdev\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"main.h"
+
+1654041329 source:c:\users\marwe\onedrive\bureau\projet 1cdev\projet c\chains.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"chains.h"
+	"level.h"
+	"display.h"
+
+1654074546 c:\users\marwe\onedrive\bureau\projet 1cdev\projet c\main.h
+
